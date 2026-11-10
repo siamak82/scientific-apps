@@ -1,0 +1,5 @@
+Lossless elastic, 5 modes, reflection + forward transmission: max error 1.1e-06  -> PASS
+  visco ln Vp : exact 0.50000+0.00000j   app 0.50000+0.00000j
+  visco ln rho: exact 0.50000-0.00000j   app 0.50000+0.00000j
+  visco ln Qp : exact -0.00062+0.01247j   app -0.00062+0.01247j
+Viscoacoustic normal incidence (Q=20): max error 5.0e-07  -> PASS

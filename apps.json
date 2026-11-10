@@ -1,0 +1,11 @@
+[
+  {
+    "id": "fwi-radiation",
+    "name": "FWI Radiation Lab",
+    "category": "Geophysics",
+    "description": "Explore acoustic, elastic and attenuating radiation patterns. Compare parameterizations, angular illumination and local crosstalk.",
+    "path": "apps/fwi-radiation/",
+    "tags": ["FWI", "Radiation patterns", "Parameter crosstalk"],
+    "version": "bfbcc4f"
+  }
+]

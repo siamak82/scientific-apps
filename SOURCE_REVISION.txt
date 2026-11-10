@@ -1,0 +1,4 @@
+FWI Radiation Lab source revision
+bfbcc4ffae619ad0e69be7459d77d816a1aa389e
+
+physics.js and app.js are copied byte for byte from this revision. index.html and style.css add a return link to the collection. Tests use the new relative app path. The homepage, catalog and GitHub setup instructions are new.
